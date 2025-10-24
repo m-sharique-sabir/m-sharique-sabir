@@ -23,58 +23,6 @@
 
 <br/>  
 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<br/>
-
-
-
-## 🚀 Senior Full-Stack Development Engineer | AI & Security Architect
-
-Welcome to my digital workshop! I'm a seasoned **Senior Full-Stack Developer** with over 4 years of hands-on experience, specializing in building high-performance, secure, and large-scale applications. I take immense pride in **autonomous project execution**, consistently turning complex requirements into clean, production-ready, and bug-free code.
-
----
-
-## 🔥 My Expert Skill Stack: The Full-Stack Problem Solver
-
-As a dedicated developer, my technical expertise covers the entire spectrum of application architecture.
-
-### 💻 Frontend Mastery: The User Experience Architect
-
-I excel in bringing dynamic designs to life with a focus on speed and responsiveness. My core front-end technologies include **JavaScript (ES6+)** and **TypeScript**. I primarily work with powerful frameworks like **React** and **Next.js** for web, and also utilize **Vue.js** and **Nuxt.js** for diverse projects.
-
-### ⚙️ Backend Power: The Engine Builder
-
-I craft robust and scalable APIs and server-side logic using a variety of languages and frameworks. My stack includes **Node.js (with Express.js and NestJS)**, **Python (with Django)**, and **PHP (with Laravel)**. I ensure data integrity and high throughput with databases such as **MongoDB**, **MySQL**, and **Redis**.
-
-### 📱 Cross-Platform Development
-
-My skills extend to mobile applications, ensuring seamless delivery across different platforms.
-
-### 🎨 Styling & UI Architecture
-
-I design visually appealing and highly maintainable user interfaces using **HTML**, **CSS**, **SASS**, and **LESS**.
-
-### ☁️ DevOps & Cloud Infrastructure
-
-I handle deployment, scaling, and maintenance using services like **AWS** and **Firebase** to ensure a smooth, continuous delivery pipeline.
-
----
-
-## ⭐ Key Strengths & Focus Areas
-
-* **AI Integration:** Successfully integrated advanced AI functionalities into over $\text{10}$ end-to-end applications. 🧠
-* **Security Focus:** Expert in implementing **Advanced Security Protocols** and secure user authentication (Sign-up, Login, Email Verification), making every application robust. 🔒
-* **Code Quality:** Dedicated to writing performance-optimized, clean, and highly maintainable code that meets the highest standards. ✨
-* **Autonomy:** Proven ability to manage, lead, and deliver complex, large-scale projects entirely solo from start to finish. 🎯
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -132,6 +80,56 @@ I handle deployment, scaling, and maintenance using services like **AWS** and **
 </div>
 
 </td></tr></table>  
+
+<br/> 
+
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<br/>
+
+
+
+## 🚀 Senior Full-Stack Development Engineer | AI & Security Architect
+
+Welcome to my digital workshop! I'm a seasoned **Senior Full-Stack Developer** with over 4 years of hands-on experience, specializing in building high-performance, secure, and large-scale applications. I take immense pride in **autonomous project execution**, consistently turning complex requirements into clean, production-ready, and bug-free code.
+
+---
+
+## 🔥 My Expert Skill Stack: The Full-Stack Problem Solver
+
+As a dedicated developer, my technical expertise covers the entire spectrum of application architecture.
+
+### 💻 Frontend Mastery: The User Experience Architect
+
+I excel in bringing dynamic designs to life with a focus on speed and responsiveness. My core front-end technologies include **JavaScript (ES6+)** and **TypeScript**. I primarily work with powerful frameworks like **React** and **Next.js** for web, and also utilize **Vue.js** and **Nuxt.js** for diverse projects.
+
+### ⚙️ Backend Power: The Engine Builder
+
+I craft robust and scalable APIs and server-side logic using a variety of languages and frameworks. My stack includes **Node.js (with Express.js and NestJS)**, **Python (with Django)**, and **PHP (with Laravel)**. I ensure data integrity and high throughput with databases such as **MongoDB**, **MySQL**, and **Redis**.
+
+### 📱 Cross-Platform Development
+
+My skills extend to mobile applications, ensuring seamless delivery across different platforms.
+
+### 🎨 Styling & UI Architecture
+
+I design visually appealing and highly maintainable user interfaces using **HTML**, **CSS**, **SASS**, and **LESS**.
+
+### ☁️ DevOps & Cloud Infrastructure
+
+I handle deployment, scaling, and maintenance using services like **AWS** and **Firebase** to ensure a smooth, continuous delivery pipeline.
+
+---
+
+## ⭐ Key Strengths & Focus Areas
+
+* **AI Integration:** Successfully integrated advanced AI functionalities into over $\text{10}$ end-to-end applications. 🧠
+* **Security Focus:** Expert in implementing **Advanced Security Protocols** and secure user authentication (Sign-up, Login, Email Verification), making every application robust. 🔒
+* **Code Quality:** Dedicated to writing performance-optimized, clean, and highly maintainable code that meets the highest standards. ✨
+* **Autonomy:** Proven ability to manage, lead, and deliver complex, large-scale projects entirely solo from start to finish. 🎯
 
 <br/>  
 
