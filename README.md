@@ -40,12 +40,6 @@ A full CRUD admin dashboard built with **React 19**, including profile image upl
 
 ---
 
-### 📚 Education  
-- **Intermediate (12th)**  
-- **Diploma in Information Technology (DIT)** – 1 Year
-
----
-
 ### 📌 What I Bring  
 - ✅ 2+ years of hands-on frontend development experience  
 - ✅ Expertise in **React, Next.js, TypeScript, and Tailwind CSS**  
