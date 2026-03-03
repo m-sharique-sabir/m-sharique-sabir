@@ -1,5 +1,5 @@
 # Mohammad Sharique Sabir  
-**💻 Frontend Web Developer | React.js & Next.js Specialist | TypeScript Expert 🛡️ | Building Scalable, High-Performance Web Applications 🚀 | 2+ Years Experience ⏳**
+**💻 Frontend Web Developer | React.js & Next.js Specialist | TypeScript Expert 🛡️ | Building Scalable, High-Performance Web + App Applications 🚀**
 
 📍 Pakistan | 📞 +92 339 2409950  
 📧 mohammadsharique2409950@gmail.com  
