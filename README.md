@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **4 years of experience** in the software industry, including **2+ years at Gigbitesoft.com**, where I built scalable, production-grade web applications and enterprise SaaS platforms.
+I'm a **Full Stack Developer** with **4 years of experience** in the software industry, including **2+ years at Gigabitesoft.com**, where I built scalable, production-grade web applications and enterprise SaaS platforms.
 
 I specialize in **React, Next.js, Laravel**, and the **MERN Stack** — delivering complete systems from database architecture to pixel-perfect, production-ready interfaces. I've architected multi-tenant SaaS platforms with real-time WebSockets, role-based security, and GPT-4o AI integration. I've also independently designed, built, and published a mobile app on the Google Play Store — solo, from UI/UX to production deployment.
 
