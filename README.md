@@ -1,11 +1,10 @@
 <h1 align="center">Mohammad Sharique Sabir</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> — I build complete systems, from database schema to deployment.
-</p>
-
-<p align="center">
-  React 19 · Next.js 16 · Laravel 13 · Node.js · TypeScript · Flutter
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1200&color=4FB3B8&center=true&vCenter=true&width=820&height=45&lines=Full+Stack+Developer+%E2%80%94+database+schema+to+deployment;12-service+SaaS+backend+%C2%B7+444+automated+assertions;4+products+live+on+Vercel+and+Google+Play;React+19+%C2%B7+Next.js+16+%C2%B7+Laravel+13+%C2%B7+Node.js;Multi-tenant+architecture%2C+RBAC%2C+real-time+systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1200&color=0C5C63&center=true&vCenter=true&width=820&height=45&lines=Full+Stack+Developer+%E2%80%94+database+schema+to+deployment;12-service+SaaS+backend+%C2%B7+444+automated+assertions;4+products+live+on+Vercel+and+Google+Play;React+19+%C2%B7+Next.js+16+%C2%B7+Laravel+13+%C2%B7+Node.js;Multi-tenant+architecture%2C+RBAC%2C+real-time+systems" alt="Full Stack Developer — database schema to deployment. 12-service SaaS backend, 444 automated assertions. 4 products live on Vercel and Google Play. React 19, Next.js 16, Laravel 13, Node.js. Multi-tenant architecture, RBAC, real-time systems." />
+  </picture>
 </p>
 
 <p align="center">
